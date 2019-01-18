@@ -1,0 +1,6 @@
+.DS_Store
+.thumbsdb
+/node_modules
+/**/obj/**
+/**/bin/**
+.vs/**
